@@ -6,6 +6,8 @@
 
 #FROM LOGIN
 
+![Cuplikan layar 2023-12-13 193428](https://github.com/danur77/Tugas-projects-sistem-informasi-pengarsipan-surat-desa/assets/115677839/22a59daf-f24f-4d91-be8e-1d2647d0f6ca)
+
 
 
 
@@ -59,6 +61,8 @@
 
      #BERANDA
 
+     
+![Cuplikan layar 2023-12-13 193513](https://github.com/danur77/Tugas-projects-sistem-informasi-pengarsipan-surat-desa/assets/115677839/da609442-952d-4810-b240-caef4bd718e2)
 
 
      <?php
